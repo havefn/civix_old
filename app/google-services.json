@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "205724612197",
+    "firebase_url": "https://civix-828a9.firebaseio.com",
+    "project_id": "civix-828a9",
+    "storage_bucket": "civix-828a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205724612197:android:9c6e47729a5d1462",
+        "android_client_info": {
+          "package_name": "com.havefn.civix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205724612197-cfdtltn9u9r5994ek5t0e03plcg87k3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.havefn.civix",
+            "certificate_hash": "12002D5B6B7B64BB285574161A78D685224507BD"
+          }
+        },
+        {
+          "client_id": "205724612197-7idfrjpuen1ofem3ggoig3rqa2s2cn4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnyD6TCW906ZEutKVOb81mULavTKKZRxI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205724612197-7idfrjpuen1ofem3ggoig3rqa2s2cn4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
